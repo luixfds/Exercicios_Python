@@ -1,7 +1,10 @@
-#   preechendo com numeros padrões apos, antes e ao meio do valor de uma variavel
+#   preenchimento
 
-x = 4
+x = "L"
 
+#   depois
 print(f'{x:0>4}')
+#   antes
 print(f'{x:0<4}')
-print(f'{x:0^4}')
+#   no meio
+print(f'{x:0^5}')

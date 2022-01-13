@@ -1,3 +1,5 @@
+#   formatação
+
 nome = "Teste de recorte"
 
 # exibe as 3 primeiras letras do texto da variavel

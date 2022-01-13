@@ -1,4 +1,4 @@
-#   convertendo valores
+#   formas de print e input
 
 nome = input("Digite seu nome: ")
 x = int(input("Digite um numero: "))
